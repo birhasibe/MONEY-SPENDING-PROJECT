@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "title" : "sakiz",
+        "price": 0.5,
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "kola",
+        "price": 6,
+        "image": "https://cdn.cimri.io/market/260x260/coca-cola-330-ml-kola-_953251.jpg"
+        
+    },
+    {
+        "id" : 3,
+        "title" : "ayakkabi",
+        "price": 400,
+        "image": "https://cdn.dsmcdn.com/mnresize/500/-/ty151/product/media/images/20210729/15/113722458/118106876/1/1_org.jpg"
+        
+    },
+    {
+        "id" : 4,
+        "title" : "araba",
+        "price": 40000,
+        "image" : "https://arabam-blog.mncdn.com/wp-content/uploads/2021/09/Lamborghini-in-Dubai.jpg"
+    }
+]
